@@ -16046,8 +16046,18 @@ h3 {
     border-color: #dee2e6;
   }
 }
-.navFont {
-  font-size: 15px;
+.cardCenter {
+  justify-content: center;
+}
+.cardCenter div div h5 {
+  text-align: center;
+}
+.cardCenter div div p {
+  text-align: center;
+}
+
+body {
+  margin: 0;
 }
 
 /*# sourceMappingURL=app.css.map */
